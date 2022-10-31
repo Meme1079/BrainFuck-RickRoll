@@ -1,3 +1,10 @@
+Section 1: Never gonna give you up
+Section 2: Never gonna let you down
+Section 3: Never gonna run around and desert you
+Section 4: Never gonna make you cry
+Section 5: Never gonna say goodbye
+Section 6: Never gonna tell a lie and hurt you
+
 +++++++[>+++++++++++<-]>+.+++++++++++[>++++<-]>+.+++++++++++++++++.-----------------.+++++++++++++.
 <----------[>--------<+]>--.+++[->+++<]>--.++++++++.-..-------------.<-------[>---------<+]>--.
 <++++++[>+++++++++++<-]>+++++.++.+++++++++++++.-----------------.<-------[>---------<+]>------.++++++++[>+++<-]>+.
